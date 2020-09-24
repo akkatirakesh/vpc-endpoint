@@ -6,7 +6,7 @@ module "endpoint" {
 }
 
 provider "aws" {
-  access_key="AKIAQAKEBHAJB42374NZ"
-  secret_key="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"
+  access_key=""
+  secret_key=""
   region = "us-east-1"
 }
